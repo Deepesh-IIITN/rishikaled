@@ -45,12 +45,6 @@ document.addEventListener('DOMContentLoaded', () => {
             <div><strong class="text-slate-500 block">IP Grade:</strong> ${p.specs['Ingress Protection'] || 'N/A'}</div>
             <div><strong class="text-slate-500 block">Warranty:</strong> 5 Years</div>
           </div>
-
-          <div class="mt-auto flex items-center gap-3">
-            <button onclick="openProductModal('${p.id}')" class="flex-1 bg-blue-600 hover:bg-blue-500 text-white text-sm font-semibold py-2.5 px-4 rounded text-center transition w-full">
-              Full Technical Specs
-            </button>
-          </div>
         </div>
       </article>
     `).join('');
