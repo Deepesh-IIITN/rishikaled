@@ -1,0 +1,32 @@
+[
+  {
+    "id": "proj-bhopal-highway",
+    "title": "Bhopal Bypass Highway Illumination",
+    "category": "highway",
+    "location": "Bhopal, Madhya Pradesh",
+    "scope": "Supplied and installed 400 units of high-efficiency 200W LED Highway Lights across the newly constructed bypass.",
+    "fixturesUsed": "High-Speed Highway LED Luminaire (200W)",
+    "image": "assets/images/projects/highway-bhopal.webp",
+    "metrics": "Achieved optimal lux levels for high-speed traffic while reducing power consumption by 55% compared to legacy HPSV lamps."
+  },
+  {
+    "id": "proj-stadium-mp",
+    "title": "Regional Sports Complex",
+    "category": "stadium",
+    "location": "Indore, M.P.",
+    "scope": "Upgraded the entire outdoor cricket ground with our premium Stadium Lights (स्टेडियम लाइट), ensuring broadcast-quality, flicker-free illumination.",
+    "fixturesUsed": "Stadium Light 800W",
+    "image": "assets/images/projects/stadium-indore.webp",
+    "metrics": "Delivered high brightness with exceptionally low power consumption, enabling night matches with eco-friendly energy savings."
+  },
+  {
+    "id": "proj-industrial-plant",
+    "title": "Heavy Manufacturing Plant",
+    "category": "industrial",
+    "location": "Mandideep, Bhopal",
+    "scope": "Replaced outdated metal halide high bays with our Industrial High Bay LEDs across a 50,000 sq ft manufacturing floor.",
+    "fixturesUsed": "Industrial High Bay LED (150W)",
+    "image": "assets/images/projects/industrial-mandideep.webp",
+    "metrics": "The long life and durable nature of the fixtures eliminated recurring maintenance costs in high-ceiling environments."
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "re-flood-light",
+    "category": "flood",
+    "categoryLabel": "Flood Lights",
+    "name": "Premium LED Flood Light",
+    "tagline": "High brightness with low power consumption for outdoor area illumination.",
+    "thumbnail": "assets/images/products/flood-light-thumb.webp",
+    "gallery": [
+      "assets/images/products/flood-light-display.webp"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "Wattage": "50W - 400W",
+      "Luminous Efficacy": "140 lm/W",
+      "IP Rating": "IP66 Waterproof",
+      "Lifespan": "50,000+ Hours",
+      "Features": "Energy-saving, Eco-friendly, Premium Quality"
+    },
+    "applications": [
+      "Building Facades",
+      "Parking Lots",
+      "Security Lighting",
+      "Outdoor Billboards"
+    ]
+  },
+  {
+    "id": "re-street-light",
+    "category": "street",
+    "categoryLabel": "Street Lights",
+    "name": "Eco-friendly LED Street Light",
+    "tagline": "Durable and long-lasting illumination for urban roads and pathways.",
+    "thumbnail": "assets/images/products/street-light-thumb.webp",
+    "gallery": [
+      "assets/images/products/street-light-display.webp"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "Wattage": "30W - 250W",
+      "Luminous Efficacy": "130 lm/W",
+      "Housing": "Die-cast Aluminum",
+      "Surge Protection": "10kV",
+      "Features": "High brightness, Low power consumption"
+    },
+    "applications": [
+      "City Roads",
+      "Residential Pathways",
+      "Industrial Parks",
+      "Campus Lighting"
+    ]
+  },
+  {
+    "id": "re-stadium-light",
+    "category": "stadium",
+    "categoryLabel": "Stadium Lights",
+    "name": "Stadium Light (स्टेडियम लाइट)",
+    "tagline": "Extreme high-lumen output for professional sports arenas and massive grounds.",
+    "thumbnail": "assets/images/products/stadium-light-thumb.webp",
+    "gallery": [
+      "assets/images/products/stadium-light-display.webp"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "Wattage": "500W - 1200W",
+      "Luminous Efficacy": "150 lm/W",
+      "Beam Angle": "Asymmetric & Symmetric options",
+      "Cooling": "Advanced Fin Thermal Management",
+      "Features": "Premium quality, Flicker-free"
+    },
+    "applications": [
+      "Cricket Stadiums",
+      "Football Arenas",
+      "Large Outdoor Events",
+      "High Mast Lighting"
+    ]
+  },
+  {
+    "id": "re-highway-light",
+    "category": "highway",
+    "categoryLabel": "Highway Lights",
+    "name": "High-Speed Highway LED Luminaire",
+    "tagline": "Engineered for maximum visibility and safety on expressways.",
+    "thumbnail": "assets/images/products/highway-light-thumb.webp",
+    "gallery": [
+      "assets/images/products/highway-light-display.webp"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "Wattage": "150W - 300W",
+      "Luminous Efficacy": "145 lm/W",
+      "Optics": "Batwing distribution for uniformity",
+      "Durability": "IP66 & IK08 rated",
+      "Features": "Long life, Energy-saving"
+    },
+    "applications": [
+      "National Highways",
+      "Expressways",
+      "Toll Plazas",
+      "Bridges"
+    ]
+  },
+  {
+    "id": "re-industrial-light",
+    "category": "industrial",
+    "categoryLabel": "Industrial Lighting",
+    "name": "Industrial High Bay LED",
+    "tagline": "Robust lighting solutions for factories, warehouses, and manufacturing units.",
+    "thumbnail": "assets/images/products/industrial-light-thumb.webp",
+    "gallery": [
+      "assets/images/products/industrial-light-display.webp"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "Wattage": "100W - 250W",
+      "Luminous Efficacy": "140 lm/W",
+      "Mounting": "Hook/Chain suspension",
+      "Operating Temp": "-30°C to +50°C",
+      "Features": "Premium build, Eco-friendly"
+    },
+    "applications": [
+      "Warehouses",
+      "Manufacturing Plants",
+      "Indoor Sports Facilities",
+      "Large Workshops"
+    ]
+  }
+]
